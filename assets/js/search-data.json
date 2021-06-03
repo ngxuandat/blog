@@ -40,17 +40,6 @@
   
 
   
-      ,"page3": {
-          "title": "Tree of Knownedge",
-          "content": "link text .",
-          "url": "https://ngxuandat.github.io/blog/_pages/kumu",
-          "relUrl": "/_pages/kumu",
-          "date": ""
-      }
-      
-  
-
-  
   
 
   
@@ -70,7 +59,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ngxuandat.github.io/blog/robots.txt",
