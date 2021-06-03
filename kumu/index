@@ -64,7 +64,7 @@ window.onload = wrap_img;
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <a href="https://kumu.io/datnguyen/graph#tree-of-knowledge">Tree of Knowledge!</a>
+        <iframe src="https://embed.kumu.io/b68348c5a29beb6487b09d379b457a77" width="940" height="600" frameborder="0"></iframe>
 
       </div>
     </main><footer class="site-footer h-card">
