@@ -7,6 +7,16 @@ title: An Example Markdown Post
 ---
 # Example Markdown Post
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 ## Basic setup
 
 Jekyll requires blog post files to be named according to the following format:
