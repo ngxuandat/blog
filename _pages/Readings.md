@@ -6,7 +6,7 @@ permalink: /readings/
 
 
 - 2021 Jun 
-    - > youtube: https://youtu.be/yHiibI-FW9s
+    - [Empirical Work on Preferences](https://youtu.be/yHiibI-FW9s)
     - [d.school Starter Kit](https://docs.google.com/presentation/d/1kMROhf-S6z0hLKb7Km0PddUff-wiYkuD5QCNeD8t-Ns/edit#slide=id.g827ccf4a3e_0_8) → Course Notes
     - [David Sinclair: Extending the Human Lifespan Beyond 100 Years | Lex Fridman Podcast 189](https://youtu.be/jhKZIq3SlYE) ← interesting talk about the future of health care, how to live longer, the biology of aging, and more.
     - [Talk from World Bank: Behavioral Science for Development: A Storytelling Event](https://www.worldbank.org/en/news/video/2018/10/04/behavioral-science-for-development#). → Notes
