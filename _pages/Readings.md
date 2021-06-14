@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What I'm reading
-permalink: /readings/
+title: Useful resources
+permalink: /resources/
 ---
 
 
