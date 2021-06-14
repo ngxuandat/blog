@@ -53,6 +53,22 @@
   
 
   
+      ,"page5": {
+          "title": "Reading List",
+          "content": "",
+          "url": "https://ngxuandat.github.io/blog/readlist/",
+          "relUrl": "/readlist/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -61,18 +77,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page12": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ngxuandat.github.io/blog/robots.txt",
