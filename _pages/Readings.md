@@ -6,9 +6,10 @@ permalink: /resources/
 
 
 - 2021 Jun 
+    - [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) 
     - [Empirical Work on Preferences](https://youtu.be/yHiibI-FW9s)
     - [d.school Starter Kit](https://docs.google.com/presentation/d/1kMROhf-S6z0hLKb7Km0PddUff-wiYkuD5QCNeD8t-Ns/edit#slide=id.g827ccf4a3e_0_8) → Course Notes
-    - [David Sinclair: Extending the Human Lifespan Beyond 100 Years | Lex Fridman Podcast 189](https://youtu.be/jhKZIq3SlYE) ← interesting talk about the future of health care, how to live longer, the biology of aging, and more.
+    - [David Sinclair: Extending the Human Lifespan Beyond 100 Years, Lex Fridman Podcast 189](https://youtu.be/jhKZIq3SlYE) ← interesting talk about the future of health care, how to live longer, the biology of aging, and more.
     - [Talk from World Bank: Behavioral Science for Development: A Storytelling Event](https://www.worldbank.org/en/news/video/2018/10/04/behavioral-science-for-development#). → Notes
     - [Academic Economics: Strengths and Weaknesses, Considering Interdisciplinary Needs by Charlie Munger](https://fs.blog/great-talks/academic-economics-charlie-munger/)
     - [Subtract: Why Getting to Less Can Mean Thinking More](https://behavioralscientist.org/subtract-why-getting-to-less-can-mean-thinking-more/)
