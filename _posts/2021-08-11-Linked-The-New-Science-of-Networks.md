@@ -6,6 +6,7 @@ categories: [markdown]
 title: Linked: The New Science Of Networks By Albert László Barabási
 ---
 # Excerpts + Extra edit (Formatted Highlights)
+
 - Our biological existence, social world, economy, and religious traditions tell a compelling story of interrelatedness. As the great Argentinean author Jorge Luis Borges put it,“everything touches everything.”
     - We have taken apart the universe and have no idea how to put it back together. After spending trillions of research dollars to disassemble nature in the last century, we are just now acknowledging that we have no clue how to continue—except to take it apart further. [This was the humble start of what's behind many of the greatest scientific discoveries - the idea of Reductionism.] Reductionism was the driving force behind much of the twentieth century’s scientific research. To comprehend nature, it tells us, we first must decipher its components. The assumption is that once we understand the parts, it will be easy to grasp the whole. [But as we go deeper, the more we separate the already separated parts, the more we know that we know less than we have always thought. Perhaps it's time to think of how we can pull all of the things back together, and try to study them as a whole, which implies that we now need a new paradigm for thinking that is different from the old-school Reductionism. Here, networks might have the answer.]
     - The Basic of Networks
