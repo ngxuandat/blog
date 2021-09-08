@@ -9,7 +9,7 @@ permalink: /resources/
     - [https://abnormalreturns.com/](https://abnormalreturns.com/)
     - [Bryan Cranston: One Thing All Young People Should Do While They're Still Young | Big Think](https://youtu.be/ySQaE_N2Hb8)
     - [ AN INTERVIEW WITH HIROFUMI UZAWA | Macroeconomic Dynamics | Cambridge Core](https://doi.org/10.1017/S1365100509080213)
-    - [https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
+    - [Artificial Neural Nets Finally Yield Clues to How Brains Learn | Quanta Magazine](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
     - [Education Is a System of Indoctrination of the Young - Noam Chomsky](https://youtu.be/JVqMAlgAnlo)
     - [The quantum world of diamonds](https://youtu.be/VCT0wDLyvSs)
     - [Homeless guy spits some truth.](https://youtu.be/RfU8TUZRtZg) (don't know why I get recommended this)
