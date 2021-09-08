@@ -64,17 +64,6 @@
   
 
   
-      ,"page5": {
-          "title": "Reading List",
-          "content": "Left-click the map then scroll to zoom. You may find tips on the left sidebar useful. .",
-          "url": "https://ngxuandat.github.io/blog/readlist/",
-          "relUrl": "/readlist/",
-          "date": ""
-      }
-      
-  
-
-  
   
 
   
@@ -94,7 +83,7 @@
   
 
   
-      ,"page13": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ngxuandat.github.io/blog/robots.txt",
