@@ -4,7 +4,26 @@ title: Useful resources
 permalink: /resources/
 ---
 
-
+- 2021 August
+    - [The fake futurism of Elon Musk](https://youtu.be/5OtKEetGy2Y)
+    - [https://abnormalreturns.com/](https://abnormalreturns.com/)
+    - [Bryan Cranston: One Thing All Young People Should Do While They're Still Young | Big Think](https://youtu.be/ySQaE_N2Hb8)
+    - [ AN INTERVIEW WITH HIROFUMI UZAWA | Macroeconomic Dynamics | Cambridge Core](https://doi.org/10.1017/S1365100509080213)
+    - [https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
+    - [Education Is a System of Indoctrination of the Young - Noam Chomsky](https://youtu.be/JVqMAlgAnlo)
+    - [The quantum world of diamonds](https://youtu.be/VCT0wDLyvSs)
+    - [Homeless guy spits some truth.](https://youtu.be/RfU8TUZRtZg) (don't know why I get recommended this)
+    - [How We End Consumerism](https://youtu.be/omcUaD8pxaY)
+    - [I asked an AI for video ideas, and they were actually good](https://youtu.be/TfVYxnhuEdU)
+    - [China Doesn't Want You to Watch This Video](https://youtu.be/T8tJqoxTJ_M)
+    - [Andy Matuschak: Why books donʼt work](https://andymatuschak.org/books/)  → This reading changes my approach to reading.
+    - [AI Designed this Product: These Tools are the Future of Design](https://youtu.be/sy_llq2yq9U)
+    - [Tesla AI Day Highlights | Lex Fridman](https://youtu.be/ABbDB6xri8o)
+    - [The Rise of Weak Men](https://youtu.be/tB9UU1Fb3P4)  :)
+    - [What is Metaphysics? (Definition)](https://youtu.be/BxV0zGVDXKo)
+    - [The Death of Europe, with Douglas Murray](https://youtu.be/eQXHc-tJMXM) (Good stuff, interesting perspectives)
+    - [Laniakea: Our home supercluster](https://youtu.be/rENyyRwxpHo)
+    - [Why some animals are shrinking](https://youtu.be/OM-wpoe_bs8)
 - 2021 Jun 
     - [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) 
     - [Empirical Work on Preferences](https://youtu.be/yHiibI-FW9s)
