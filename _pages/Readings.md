@@ -3,7 +3,7 @@ layout: page
 title: Useful resources
 permalink: /resources/
 ---
-- 2022 Jan Update: Too busy to maintain this page so I'm planning only update it occasionally.
+- 2022 Jan Update: Too busy to maintain this page so I'm planning to only update it occasionally.
 - 2021 August
     - [The fake futurism of Elon Musk](https://youtu.be/5OtKEetGy2Y)
     - [https://abnormalreturns.com/](https://abnormalreturns.com/)
