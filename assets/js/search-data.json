@@ -38,6 +38,17 @@
   
 
   
+      ,"page3": {
+          "title": "Gallery",
+          "content": "&lt;!doctype html&gt; . Image Gallery . .",
+          "url": "https://ngxuandat.github.io/blog/gallery/",
+          "relUrl": "/gallery/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
 
@@ -61,7 +72,7 @@
   
 
   
-      ,"page12": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ngxuandat.github.io/blog/robots.txt",
