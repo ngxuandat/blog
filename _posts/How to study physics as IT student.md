@@ -19,41 +19,57 @@ Learning Physics even if you are a CS major will be beneficial because:
 
 You don't need to study Physics the traditional way(which is almost impossible if you are also majoring CS), just focus on the core ideas, concepts and their applications. After the having a grasp of the basics, you can try to focus more on the topics that you are interested in. Moreover, the following curriculum should be sufficient for giving you a decent Physics foundation, which will help you grasp the big picture of Physics, while providing you with enough foundational knowledge to help you be open to new computing technology(that are deeply Physics) like Quantum Computing or Brain Simulation. 
 
-1. Physics and the World System
-	1. Oscillation and motion
-		1. Structures in the universe
-	2. Electromagnetic radiation and light
-		1. Relativity theory and Positioning technology
-	3. Quantum theory and Quantum World
-		1. Energy and Spectroscopy
-2. Material Science for Computers
-	1. Semiconductor and Microprocessor
-		1. MOSFET technology
-	2. Magnetic Materials
-		1. Computer Memory
-	3. Measurement
-		1. Electronic Microscope, medical imaging
-3. Physics of Sensors
-	1. Pressure and heat sensor
-		1. Abnormal sound detection and noise filtering
-	2. Chemical sensor
-		1. Material analysis and environmental protection
-	3. Magnetic sensor
-		1. Radar signal analysis and environment monitoring
-4. Light and Computer Graphic
-	1. Laser
-		1. Design and making microchip
-	2. Graphic Display and Lighting 
-		1. Advertising display and decoration
-	3. Fiber-optic 
-		1. Application of Photonics Technology
-5. Physics and the Future of Computing
-	1. The Physics foundations of Quantum Computing
-		1. Shor's algorithm
-	2. Quantum Information
-		1. Quantum Cryptography
-	3. The Physics foundation of Brain Simulation and Computing
-		1. Hopfield network and Spin glass
+## Part 1. Physics and the World System
+1. Oscillation and motion
+
+	Deep dive: Structures in the universe
+2. Electromagnetic radiation and light
+	
+	Relativity theory and Positioning technology
+3. Quantum theory and Quantum World
+	
+	Energy and Spectroscopy
+## Part 2. Material Science for Computers
+1. Semiconductor and Microprocessor
+	
+	MOSFET technology
+2. Magnetic Materials
+	
+	Computer Memory
+3. Measurement
+	
+	Electronic Microscope, medical imaging
+## Part 3. Physics of Sensors
+1. Pressure and heat sensor
+	
+	Abnormal sound detection and noise filtering
+2. Chemical sensor
+	
+	Material analysis and environmental protection
+3. Magnetic sensor
+	
+	Radar signal analysis and environment monitoring
+
+## Part 4. Light and Computer Graphic
+1. Laser
+	
+	Design and making microchip
+2. Graphic Display and Lighting 
+	
+	Advertising display and decoration
+3. Fiber-optic 
+	
+	Application of Photonics Technology
+## Part 5. Physics and the Future of Computing
+1. The Physics foundations of Quantum Computing
+	
+	Shor's algorithm
+2. Quantum Information
+
+	Quantum Cryptography
+3. The Physics foundation of Brain Simulation and Computing
+
+	Hopfield network and Spin glass
 
 
 I'll try to include the materials, but for now I'll just leave it here. (May 10 2023)
