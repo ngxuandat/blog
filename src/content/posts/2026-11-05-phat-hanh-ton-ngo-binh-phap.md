@@ -23,10 +23,6 @@ Cuốn sách gồm hai bộ binh thư cổ của thời Chiến Quốc, in chung
 
 Ngoài hai phần chính văn, sách còn có lời giới thiệu, lời người dịch, và phần thân thế, trứ tác của Tôn Tử và Ngô Tử.
 
-## Vì sao nên đọc
-
-Tôn Tử binh pháp ban đầu được viết để huấn luyện tướng sĩ, nhưng chưa đầy 8.000 chữ nguyên bản của nó đã được vận dụng rộng rãi trong quản trị, kinh doanh, đàm phán và cả đời sống thường ngày. Mỗi người đọc thường tìm thấy trong đó một cuốn cẩm nang của riêng mình.
-
 ## Về bản PDF này
 
 - Bản dịch là của Ngô Văn Triện; mình chỉ chịu trách nhiệm phần dàn trang và phát hành dưới dạng PDF.
