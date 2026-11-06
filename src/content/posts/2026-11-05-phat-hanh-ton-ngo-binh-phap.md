@@ -25,6 +25,7 @@ Ngoài hai phần chính văn, sách còn có lời giới thiệu, lời ngư�
 
 ## Về bản PDF này
 
+- **Sách thuộc phạm vi công cộng (public domain).** Nguyên tác của Tôn Vũ và Ngô Khởi đã có từ hơn hai nghìn năm trước, còn dịch giả Ngô Văn Triện (1902–1974) đã mất hơn 50 năm, nên thời hạn bảo hộ quyền tác giả của bản dịch đã hết. Vì vậy bạn có thể tải, đọc, sao chép và chia sẻ cuốn sách này một cách tự do.
 - Bản dịch là của Ngô Văn Triện; mình chỉ chịu trách nhiệm phần dàn trang và phát hành dưới dạng PDF.
 - Nếu bạn phát hiện lỗi chính tả hoặc lỗi trình bày, mời góp ý để mình chỉnh sửa trong các bản sau.
 
