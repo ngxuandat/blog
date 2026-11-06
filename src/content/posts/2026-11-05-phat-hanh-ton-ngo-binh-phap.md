@@ -3,7 +3,6 @@ title: "Phát hành bản PDF Tôn Ngô Binh Pháp - Ngô Văn Triện"
 description: Bản PDF toàn văn Tôn Tử binh pháp và Ngô Tử binh pháp do Ngô Văn Triện dịch, tải về miễn phí.
 tags: [sách, binh pháp, pdf]
 toc: false
-draft: true
 ---
 
 Mình vừa dàn lại và phát hành bản PDF **Tôn Ngô Binh Pháp** của dịch giả **Ngô Văn Triện** (bút hiệu Trúc Khê), để bạn nào quan tâm có thể tải về đọc trên máy tính, điện thoại hay máy đọc sách.
