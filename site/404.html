@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>This blog has moved</title>
+  <script>
+    // GitHub Pages serves this file for every unknown path under /blog/.
+    // The new site keeps the same paths, so just drop the "/blog" prefix.
+    (function () {
+      var path = location.pathname.replace(/^\/blog(?=\/|$)/, '') || '/';
+      location.replace('https://ngxuandat.github.io' + path + location.search + location.hash);
+    })();
+  </script>
+</head>
+<body>
+  <p>This blog has moved to <a href="https://ngxuandat.github.io/">https://ngxuandat.github.io/</a>.</p>
+</body>
+</html>

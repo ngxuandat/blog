@@ -1,50 +1,9 @@
-# Dat Nguyen's blog
+# Redirect to ngxuandat.github.io
 
-Personal blog built with [Astro](https://astro.build) + React, deployed to GitHub Pages at
-https://ngxuandat.github.io/blog.
+The blog moved to https://ngxuandat.github.io (repo: `ngxuandat/ngxuandat.github.io`).
 
-## Writing a post
+This repo only keeps `https://ngxuandat.github.io/blog/...` links working. `site/404.html` is served by
+GitHub Pages for every unknown path under `/blog/` and redirects to the same path on the new site
+(for example `/blog/posts/foo/` goes to `/posts/foo/`). `site/index.html` redirects `/blog/`.
 
-Add a file to `src/content/posts/` named `YYYY-MM-DD-some-title.md` (or `.mdx` to use components):
-
-```md
----
-title: My new post
-description: One sentence shown on the home page.
-tags: [economics, networks]
-toc: true            # optional: "On this page" sidebar
-image: /images/cover.png   # optional: put the file in public/images/
----
-
-Write in Markdown here.
-```
-
-In `.mdx` posts you can use components, e.g.
-
-```mdx
-import Callout from '../../components/Callout.astro';
-
-<Callout type="tip">Something worth highlighting.</Callout>
-```
-
-## Running locally
-
-```bash
-npm install
-npm run dev      # http://localhost:4321/blog
-```
-
-## Deploying
-
-Pushing to `master` runs `.github/workflows/deploy.yml`, which builds the site and publishes it.
-In the repo's **Settings → Pages**, set **Source** to **GitHub Actions**.
-
-## Where things live
-
-| Path | What |
-|---|---|
-| `src/content/posts/` | Blog posts |
-| `src/pages/` | Other pages (about, resources, gallery, …) |
-| `src/components/` | React (`.tsx`) and Astro components |
-| `src/styles/global.css` | Colours, fonts, light/dark theme |
-| `public/images/` | Images |
+Pushing to `master` deploys `site/` via `.github/workflows/deploy.yml`. The old Astro source is in git history.
